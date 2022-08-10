@@ -9,7 +9,6 @@ An example project using the automation tool, [Cypress](https://www.cypress.io/)
 1. [git](https://git-scm.com/)
 
 ## Setup
-1. clone: `git@gitlab.com:satteam/cypress.git`
 1. install: `npm i`
 
 ## Run Them Tests
