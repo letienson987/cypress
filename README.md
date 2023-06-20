@@ -32,4 +32,4 @@ Cypress is an _agressively_ opinionated framework... some of these opinions are 
 1. it's slow
 1. anything it doesn't handle the docs will tell you _YOU SHOULDN'T WANT TO DO THAT_ (eg. test if an element exists)
 1. it's a total pain to get it working on CI
-1. I have yet to see _anyone_ use it well
+
